@@ -28,9 +28,6 @@ Compare the visualization results obtained from our method with different method
 **GUI SoftWare**   
 We have designed an app using Maltab App Designer to help users quickly operate. We will release our software after the manuscript is accepted. 
 
-<center>
-<img src="Figure/software.jpg " width=66%>
-</center>
 <img width="690" alt="311d953a92230e4170fb11abdd470f4" src="https://github.com/user-attachments/assets/72052758-d69b-41c3-9d26-84cd3a6d1691" />
 
 
