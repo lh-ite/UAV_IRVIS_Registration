@@ -37,8 +37,24 @@ We have designed an app using Maltab App Designer to help users quickly operate.
 **References** 
 
 Our work has benefited from the National Natural Science Foundation of BeiJing.
+Please cite my work if  it is helpful to you.
+
+
+```
+@article{li2025cross,
+  title={Cross-scale infrared and visible image registration based on phase consistency feature for UAV scenario},
+  author={Li, Hao and Liu, Chenhua and Li, Maoyong and Deng, Lei and Dong, Mingli and Zhu, Lianqing},
+  journal={Measurement},
+  pages={119340},
+  year={2025},
+  publisher={Elsevier}
+}
+``` 
+
 
 And the work on the following two datasets. Please cite when it is helpful to you.
+
+
 
 ``` 
 @article{mo2023robust,
