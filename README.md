@@ -55,7 +55,6 @@ Please cite my work if  it is helpful to you.
 And the work on the following two datasets. Please cite when it is helpful to you.
 
 
-
 ``` 
 @article{mo2023robust,
   title={A robust infrared and visible image registration method for dual-sensor UAV system},
@@ -68,6 +67,7 @@ And the work on the following two datasets. Please cite when it is helpful to yo
 }
 
 ```
+
 ``` 
 @article{li2023multimodal,
   title={Multimodal image matching: A scale-invariant algorithm and an open dataset},
