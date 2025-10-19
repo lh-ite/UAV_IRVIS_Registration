@@ -7,7 +7,10 @@ Email: lh_010625@163.com  or imagevisioner@outlook.com
 
 Cross-Modal and Cross-Resolution Image Registration: An Image Registration Pipeline for UAV Perspectives
 
-The manuscript has been submitted to Measurement . All codes will be released after the manuscript is accepted.
+The manuscript has been accepted by Measurement  Journal.    
+
+
+All codes will be released after the manuscript is accepted.
 
 
 
