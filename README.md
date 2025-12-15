@@ -181,7 +181,7 @@ Measurement_demo/
 }
 ```
 
-```
+```bibtex
 @article{li2026ecpcs,
   title={ECPCS: Enhanced contrast phase consistency space for visible and infrared image registration},
   author={Li, Hao and Liu, Chenhua and Li, Maoyong and Deng, Lei and Dong, Mingli and Zhu, Lianqing},
