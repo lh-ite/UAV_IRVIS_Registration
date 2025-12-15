@@ -38,7 +38,6 @@ Measurement_demo/
 │   ├── vis4_v2.jpg               # 可见光图像
 │   └── ir4.JPG                   # 红外图像
 ├── c_points.mat                  # 参考点数据
-└── Measurement_registration.pdf  # 技术文档
 ```
 
 ## 算法流程
