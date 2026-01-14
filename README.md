@@ -1,4 +1,4 @@
-# 多模态图像配准系统 (Multi-modal Image Registration System)
+# 跨模态图像配准系统 (cross modal Image Registration System)
 
 ## 项目简介
 
